@@ -1,0 +1,18 @@
+Group 4
+Proposal 1 (Recommending eBooks based on music users listens to)
+
+The idea of this project is to analyze a user’s playlists and favorite songs on Spotify, and recommend ebooks for them based on common themes, keywords, genres 
+etc., providing a link to access the ebook online. Ultimately, we want to suggest ebooks a user might like based on the music they like. OAuth will be used for the 
+user to log into their Spotify account. The APIs we would use would be from Spotify, a free ebook API, like Open Library, and possibly an API for searching lyrics 
+(in case we want to do some text analysis of lyrics to determine themes, keywords, etc).  A database would be used to map certain genres, keywords, artists, albums
+to free available ebooks online.
+
+
+
+Proposal 2 (Airline / Hotel Reservation System)
+
+This project is to create a reservation system which books airline seats or hotel rooms. The Web application will charge various rates for particular sections 
+of the plane or hotel. For instance, price will be higher during weekends than weekdays. First class flights will cost more than coach and suites will cost more 
+than standard rooms. This web application will keep track of when rooms will be available and can be scheduled as well. We will use an API for flight search, 
+such as Skyscanner Flight Search, and the TripAdvisor API, which is a web service that queries real-time flight prices, hotel bookings, restaurants, attractions, 
+and more. We will use the Google Oauth to add events, such as flights and hotel stays into Google Calendars.
